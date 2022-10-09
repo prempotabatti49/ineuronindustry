@@ -1,5 +1,3 @@
-pandas
+flask
 numpy
-seaborn
-sklearn
-matplotlib
+pandas
