@@ -23,3 +23,11 @@
 ![alt text](../assignment2_images/nginxload.png)
 15. docker stats
 ![alt text](../assignment2_images/stats.png)
+
+-------------------------
+### Task 2: Run Hello-World image locally
+
+-------------------------
+![alt text](../assignment2_images/hello-world.png)
+
+
